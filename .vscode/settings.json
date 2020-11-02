@@ -1,5 +1,5 @@
 {
-    "liveServer.settings.port": 5599,
+    "liveServer.settings.port": 5502,
     "python.pythonPath": "test\\Scripts\\python.exe",
     "python.linting.pylintArgs": ["--load-plugins=pylint_django"]
 
